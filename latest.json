@@ -1,10 +1,10 @@
 {
   "version": "0.2.3",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2025-05-20T07:59:49.711Z",
+  "pub_date": "2025-05-20T08:39:11.316Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVmZhdTAwNDFlT3VpR0pHSG1kWFo2WXZRVTEzL3N2UzJMMGtlYVhYbGRHSTA4VDFMYnBzTU54dndaY01UK2drblNEQ053dlpuakZickxOMWl2ekR5RUl1SVk2Nk5lZ0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3NzI3OTg2CWZpbGU6dGF1cmktY2ktZGVtby5hcHAudGFyLmd6Cngwb1hvN1BQSmF0dXB1SkJqRUVOLzRmYTg3WXFzdEo2b1EvM3FuWC9Udnd0enRQbGdpTUc4bnk3SVNNRUcyZVVybWJ6T05tbHZZQlVORWx3YkZjUEJnPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVmZhdTAwNDFlT21oRjdKL1Z0VUVMcE9pQ0lkZE9zY01zTHhURE13NGY0WU1HMTJvaVZ5ZHRDV2l1SWQrQm9SNGVLN2s0anRzQkFoVlJaY0ZkSTdRdHlFUkpKbjdVM2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3NzMwMzQ3CWZpbGU6dGF1cmktY2ktZGVtby5hcHAudGFyLmd6CjZybFZSR2xJOXlhV3d3c2RIZjFwMEdwZ3JWWkF0eWl6RWFkMUl6L0QySUdWdFpVaHROZi9ZbktRQnRUdmdydWRmOGlLY2diaDJmWXM4M2FQTFNPT0J3PT0K",
       "url": "https://github.com/fanghui-bj/tauriv2-ci-demo/releases/download/app-v0.2.3/tauri-ci-demo_aarch64.app.tar.gz"
     }
   }
